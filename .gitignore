@@ -1,0 +1,13 @@
+.scratch/
+.lake/
+*.olean
+*.olean.*
+*.ilean
+*.trace
+*.ir
+*.ir.sig
+lake-manifest.json
+W/
+
+stanleyAC/*.pdf
+stanleyAC/*.tex

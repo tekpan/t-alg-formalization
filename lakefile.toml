@@ -1,0 +1,9 @@
+name = "terwilliger"
+defaultTargets = ["Terwilliger"]
+
+[[require]]
+name = "mathlib"
+path = "/opt/mathlib"
+
+[[lean_lib]]
+name = "Terwilliger"
